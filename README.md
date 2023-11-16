@@ -5,6 +5,7 @@ IBM Project Task on topic - Dissecting the Digital Landscape: A Comprehensive An
 [Brainstorming & Prioritize Ideas](https://drive.google.com/file/d/1TTLiCFGRr6Eh2LfqLioKWUUY0TRGInKl/view?usp=sharing) <br />
 [Proposed Solution](https://drive.google.com/file/d/16sBvZk23wcIDeqhGFQK8nfm1ZgYQOMXy/view?usp=sharing) <br />
 [Solution Architecture](https://drive.google.com/file/d/1gR46T9AKcZGzvixArubsupW_-2kHDwZO/view?usp=sharing) <br />
+[Requirements](https://drive.google.com/file/d/1DzLsDy8oQmybIQ7wR4U7di3jWLzq5j_5/view?usp=sharing) <br />
 [Data Flow Diagram](https://drive.google.com/drive/folders/1J6AMmptyEcuRVIpPlx4xJq8Fj5jm-YUB?usp=sharing)
 
 # Overview
