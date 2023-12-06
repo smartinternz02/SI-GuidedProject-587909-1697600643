@@ -18,7 +18,11 @@ PROJECT PLANNING PHASE: <br />
 
 PROJECT DEVELOPMENT PHASE: <br />
 [Project Manual](https://drive.google.com/file/d/1B0a-_NSgeSu0DyVkrLk-tSPBpumCvUKD/view?usp=sharing) <br/>
-[Explanation Video Link](https://drive.google.com/file/d/1GZhrzvRToHZY6d7oQAhcpUoNy0GIcr_L/view?usp=sharing) 
+[Explanation Video Link](https://drive.google.com/file/d/1GZhrzvRToHZY6d7oQAhcpUoNy0GIcr_L/view?usp=sharing) <br />
+
+PERFORMANCE AND FINAL SUBMISSION PHASE: <br />
+[Performance Testing](https://drive.google.com/file/d/1lGAfdlXVBt6KhEWYpple20w3sDSSz8uG/view?usp=sharing) <br />
+[Project Report Documentation](https://drive.google.com/file/d/1Gu6bZLtzFyye-zb0XopBJXoMvrp_Dus9/view?usp=sharing)
 
 # Overview
 We are building a dashboard that explains the comprehensive analysis framework that integrates data visualization and analytics to unravel the complexities of the social media landscape. We have used IBM Cognos's robust reporting capabilities with Tableau's intuitive visualizations, we aim to create a dynamic analytical environment for dissecting user behavior, mapping influencer impact, scrutinizing monetization strategies, and tracking the spread of misinformation, along with other critical aspects of social media dynamics. <br />
